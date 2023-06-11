@@ -33,5 +33,12 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datase
     * This preprocessor is saved as pickel file.
 
 3. Model Trainig :
-    * The best model found was Linear Regression.
-    * 
+    * In this phase lots of model trained. (Linear Regression, Randon Forest Regressor,KNN, Decision Tree, etc.,)
+    * After the hyperparameter tuning the best model found was Linear Regression.
+    * This model is saved as pickle file.
+
+4. Prediction Pipelie :
+    * This pipeline converts given data into dataframe and various functions to load pickle files and predict the final results the python.
+
+5. Flask App Creation :
+    * Flask app is created with User Interface to predict the maths score inside a Web Application.
