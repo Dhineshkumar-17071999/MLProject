@@ -20,6 +20,9 @@ Targer Variable:
 Dataset source link:
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
 
+# Screenshot of UI
+![UI](./Screenshot/UI.png)
+
 # Approach for the project
 
 1. Data Ingestion :
